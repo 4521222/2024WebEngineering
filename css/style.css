@@ -8,3 +8,12 @@ a,a:hover,a:visited{
         color: inherit;
 }
 
+h1,p{
+    text-align: center;
+}
+
+.artist{
+    display:flex;
+}
+
+
